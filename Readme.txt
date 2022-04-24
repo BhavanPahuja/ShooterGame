@@ -1,10 +1,5 @@
 
 
-
-![demo](project2.png)
-
-
-
 The center of the spaceship should pass close to the center of the diamond for the diamond to disappear and the spaceship to grow in size.
 
 
