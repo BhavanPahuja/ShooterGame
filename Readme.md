@@ -2,13 +2,11 @@
 
 A 2D arcade-style space game built with C++ and OpenGL where you pilot a spaceship to collect diamonds while growing larger with each successful collection!
 
-<p>
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
 ![GLFW](https://img.shields.io/badge/GLFW-0F1419?style=for-the-badge)
 
-![ShooterGame](https://github.com/BhavanPahuja/ShooterGame/blob/main/project2.png)
-</p>
+![ShooterGame](https://github.com/BhavanPahuja/ShooterGame/blob/e1f5bce5eb8af5412351be47d919d4899562c6fb/project2.png)
 
 
 ## 🎮 Gameplay
@@ -180,6 +178,7 @@ cd ShooterGame
 ```
 
 **Objective**: Collect all 4 diamonds to win! Good luck, pilot! 🚀✨
+
 
 
 
