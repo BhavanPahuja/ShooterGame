@@ -13,8 +13,6 @@ A 2D arcade-style space game built with C++ and OpenGL where you pilot a spacesh
 
 Control a spaceship in space and collect diamonds scattered across the screen. With each diamond collected, your ship grows larger, making navigation increasingly challenging. Collect all 4 diamonds to win!
 
-![Gameplay Screenshot](screenshot.png)
-
 ## ✨ Features
 
 - **Mouse-Controlled Rotation**: Click anywhere to rotate your ship toward that direction
@@ -178,6 +176,7 @@ cd ShooterGame
 ```
 
 **Objective**: Collect all 4 diamonds to win! Good luck, pilot! 🚀✨
+
 
 
 
