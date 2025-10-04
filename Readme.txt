@@ -1,4 +1,4 @@
-
+[project-2.png]
 
 The center of the spaceship should pass close to the center of the diamond for the diamond to disappear and the spaceship to grow in size.
 
@@ -29,3 +29,4 @@ Submitted By - Bhavan Pahuja (30042172)
 
 The submitted code reuses the skeleton provided for the assignment and the code used for demonstration during tutorial. Links or
 references for any other resource are provided in the inline comments.
+
