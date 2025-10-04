@@ -6,7 +6,10 @@ A 2D arcade-style space game built with C++ and OpenGL where you pilot a spacesh
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
 ![GLFW](https://img.shields.io/badge/GLFW-0F1419?style=for-the-badge)
 
-![ShooterGame](/project2.png)
+![ShooterGame](project2.png)
+
+![ShooterGame](https://github.com/BhavanPahuja/ShooterGame/blob/main/project2.png)
+
 
 ## 🎮 Gameplay
 
@@ -177,4 +180,5 @@ cd ShooterGame
 ```
 
 **Objective**: Collect all 4 diamonds to win! Good luck, pilot! 🚀✨
+
 
